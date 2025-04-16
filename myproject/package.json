@@ -1,0 +1,15 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "This project I have created is to learn about package.json. Package.json stores all node module dependencies.If node-module gets deleted then npm install will install all dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SACHET SINGH RAWAT",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.8.1"
+  }
+}

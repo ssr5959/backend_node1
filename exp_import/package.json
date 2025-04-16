@@ -1,0 +1,15 @@
+{
+  "name": "exp_import",
+  "version": "1.0.0",
+  "description": "for using random-words lib through export,import keywords instead of module.exports and require keyword",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SACHET SINGH RAWAT",
+  "license": "ISC",
+  "dependencies": {
+    "random-words": "^2.0.1"
+  },
+  "type":"module"
+}
